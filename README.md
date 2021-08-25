@@ -7,3 +7,4 @@ npm run dev
 
 Go to localhost:3000
 ```
+Looking for help to get this site up and running emailme @ zachs2questions@outlook.com
